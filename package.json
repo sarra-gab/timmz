@@ -1,0 +1,22 @@
+{
+  "name": "timmz",
+  "version": "1.0.0",
+  "description": "Compteur du temps écoulée dans exécution d'un projet la première fonction \"timespent\" est un compteur basé sur l'horodatage qui permet d'enregistrer le temps écoulé entre l'ouverture du serveur et sa fermeture ensuite il enregistre le temps dans un fichier  .\r   \"timer\" est un compteur classique qui démarre lors d'ouvertures du serveur et affiche dans le terminal le temps en fonction des secondes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarra-gab/timmz.git"
+  },
+  "author": "sarra gabbassi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarra-gab/timmz/issues"
+  },
+  "homepage": "https://github.com/sarra-gab/timmz#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
